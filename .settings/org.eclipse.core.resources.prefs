@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/dxc/config/ApplicationContextConfig.java=UTF-8
+encoding//src/main/java/com/dxc/config/WebMvcConfig.java=UTF-8
+encoding//src/main/java/com/dxc/config/WebSecurityConfig.java=UTF-8
+encoding//src/main/java/com/dxc/controller/AdminController.java=UTF-8
+encoding//src/main/java/com/dxc/controller/Login_Controller.java=UTF-8
+encoding//src/main/java/com/dxc/dao/impl/ItemDAOImpl.java=UTF-8
+encoding//src/main/java/com/dxc/validator/ItemInfoValidator.java=UTF-8
